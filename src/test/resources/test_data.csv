@@ -1,0 +1,5 @@
+ searchQuery, expectedText
+ Selenide,selenide.org
+ Junit5,junit.org
+ Gradle,gradle.org
+ IntelliJ IDEA,jetbrains.com
